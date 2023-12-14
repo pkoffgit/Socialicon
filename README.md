@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: (your WordPress.org username)
+Contributors: (https://pkbundle.com/jazz-karachi-offer/)
 Donate link: (URL to donation page)
 Tags: social media, icons, sharing
 Requires at least: 4.0
